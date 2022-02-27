@@ -10,9 +10,9 @@ public class Calculadora {
 		
 		int a, b;
 		
-		System.out.println("Digite o primeiro valor: ");
+		System.out.println("Digite o 1º valor: ");
 		a = scan.nextInt();
-		System.out.println("Digite o segundo valor: ");
+		System.out.println("Digite o 2º  valor: ");
 		b = scan.nextInt();
 		
 		double soma = soma(a,b);
